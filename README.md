@@ -1,28 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ajay | Senior Full-Stack Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #0d1117;
-            color: #e6edf3;
-            text-align: center;
-            padding: 40px;
-        }
-        h1 { color: #58a6ff; }
-        a { color: #58a6ff; text-decoration: none; }
-    </style>
-</head>
-<body>
-    <h1>Hello, I'm Ajay 👋</h1>
-    <h3>Senior Full-Stack Developer (.NET | React | Azure | SQL | DevOps)</h3>
-    <p>Welcome to my personal GitHub Page.</p>
+# Ajay — Senior Full-Stack Developer
 
-    <h3>🔗 Connect with me</h3>
-    <p>
-        <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> |
-        <a href="https://github.com/your-username">GitHub</a>
-    </p>
-</body>
-</html>
+**.NET | React | Azure | SQL | DevOps**
+
+Welcome — I build scalable web apps, REST APIs and cloud solutions.
+
+🔗 [LinkedIn]((https://www.linkedin.com/in/ajay-lakshmanan/)) • 🔗 [GitHub](https://github.com/AjayLakshmanan92)
+
+## About
+- 8+ years experience in .NET Core, React, Azure and SQL
+- Microservices, CI/CD, performance tuning
+
+> Open to relocation: Europe
