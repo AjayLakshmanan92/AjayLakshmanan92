@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ajay | Senior Full-Stack Developer</title>
+  <style>
+    :root{
+      --bg:#071622; --accent:#58a6ff; --muted:#c9d6e3;
+      --card:#0d1b26;
+    }
+    body{
+      margin:0; font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background: linear-gradient(180deg, var(--bg), #031018);
+      color:var(--muted); display:flex; align-items:center; justify-content:center;
+      min-height:100vh; padding:40px;
+    }
+    .card{
+      max-width:900px; width:100%; background:linear-gradient(180deg, rgba(13,27,38,0.6), rgba(6,16,22,0.6));
+      border-radius:12px; padding:48px; box-shadow:0 10px 30px rgba(2,8,12,0.6);
+      backdrop-filter: blur(4px);
+    }
+    h1{ margin:0; font-size:40px; color:white; letter-spacing:-0.5px;}
+    p.lead{ margin:8px 0 24px; color:var(--muted); font-size:18px; }
+    .skills { margin-top:12px; display:flex; gap:12px; flex-wrap:wrap; }
+    .chip { background:rgba(255,255,255,0.04); padding:8px 12px; border-radius:8px; color:var(--muted); font-weight:600; font-size:14px; border:1px solid rgba(255,255,255,0.03); }
+    .links { margin-top:22px; display:flex; gap:12px; align-items:center; }
+    a.btn{ background:var(--accent); color:#01233a; padding:10px 14px; border-radius:8px; text-decoration:none; font-weight:700; }
+    a.ghost{ color:var(--muted); text-decoration:none; padding:10px 14px; border-radius:8px; border:1px solid rgba(255,255,255,0.03); }
+    .bg-graph { position:absolute; inset:0; pointer-events:none; opacity:0.14; background-image: linear-gradient(90deg, rgba(88,166,255,0.02) 1px, transparent 1px), linear-gradient(180deg, rgba(88,166,255,0.02) 1px, transparent 1px); background-size:120px 120px, 120px 120px; filter:blur(2px); }
+  </style>
+</head>
+<body>
+  <div class="bg-graph" aria-hidden="true"></div>
+  <main class="card" role="main">
+    <h1>Ajay</h1>
+    <p class="lead">Senior Full-Stack Developer (.NET | React | Azure | SQL | DevOps)</p>
+
+    <div class="skills" aria-hidden="false">
+      <span class="chip">.NET Core</span>
+      <span class="chip">C#</span>
+      <span class="chip">React.js</span>
+      <span class="chip">Azure</span>
+      <span class="chip">SQL</span>
+      <span class="chip">Azure DevOps</span>
+    </div>
+
+    <div class="links">
+      <a class="btn" href="https://www.linkedin.com/in/your-linkedin/" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="ghost" href="https://github.com/your-username" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </main>
+</body>
+</html>
