@@ -4,7 +4,7 @@
 
 Welcome — I build scalable web apps, REST APIs and cloud solutions.
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/ajay-lakshmanan/)) • 🔗 [GitHub](https://github.com/AjayLakshmanan92)
+🔗 [LinkedIn](https://www.linkedin.com/in/ajay-lakshmanan/) • 🔗 [GitHub](https://github.com/AjayLakshmanan92)
 
 ## About
 - 8+ years experience in .NET Core, React, Azure and SQL
